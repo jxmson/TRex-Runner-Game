@@ -1,0 +1,9 @@
+C:\Users\Nthabeleng Jimson\source\repos\TRexRunnerGame\bin\Debug\TRexRunnerGame.exe.config
+C:\Users\Nthabeleng Jimson\source\repos\TRexRunnerGame\bin\Debug\TRexRunnerGame.exe
+C:\Users\Nthabeleng Jimson\source\repos\TRexRunnerGame\bin\Debug\TRexRunnerGame.pdb
+C:\Users\Nthabeleng Jimson\source\repos\TRexRunnerGame\obj\Debug\TRexRunnerGame.csprojAssemblyReference.cache
+C:\Users\Nthabeleng Jimson\source\repos\TRexRunnerGame\obj\Debug\TRexRunnerGame.Form1.resources
+C:\Users\Nthabeleng Jimson\source\repos\TRexRunnerGame\obj\Debug\TRexRunnerGame.Properties.Resources.resources
+C:\Users\Nthabeleng Jimson\source\repos\TRexRunnerGame\obj\Debug\TRexRunnerGame.csproj.GenerateResource.cache
+C:\Users\Nthabeleng Jimson\source\repos\TRexRunnerGame\obj\Debug\TRexRunnerGame.exe
+C:\Users\Nthabeleng Jimson\source\repos\TRexRunnerGame\obj\Debug\TRexRunnerGame.pdb
